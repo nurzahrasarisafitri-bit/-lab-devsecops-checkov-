@@ -1,0 +1,5 @@
+# Isi file ~/lab-checkov/.gitignore (simpan dengan Ctrl+O, Enter, Ctrl+X) 
+.venv/ 
+__pycache__/ 
+*.sarif 
+scan-*.json
